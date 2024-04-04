@@ -1,0 +1,34 @@
+C:\setup\CSharp\ASM2\ASM2\bin\Debug\net8.0-windows\ASM2.exe
+C:\setup\CSharp\ASM2\ASM2\bin\Debug\net8.0-windows\ASM2.deps.json
+C:\setup\CSharp\ASM2\ASM2\bin\Debug\net8.0-windows\ASM2.runtimeconfig.json
+C:\setup\CSharp\ASM2\ASM2\bin\Debug\net8.0-windows\ASM2.dll
+C:\setup\CSharp\ASM2\ASM2\bin\Debug\net8.0-windows\ASM2.pdb
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.Login.resources
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.csproj.GenerateResource.cache
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.AssemblyInfoInputs.cache
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.AssemblyInfo.cs
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.csproj.CoreCompileInputs.cache
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.dll
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\refint\ASM2.dll
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.pdb
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.genruntimeconfig.cache
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\ref\ASM2.dll
+C:\setup\CSharp\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.WaterBill.resources
+D:\Project C#\ASM2\ASM2\ASM2\bin\Debug\net8.0-windows\ASM2.exe
+D:\Project C#\ASM2\ASM2\ASM2\bin\Debug\net8.0-windows\ASM2.deps.json
+D:\Project C#\ASM2\ASM2\ASM2\bin\Debug\net8.0-windows\ASM2.runtimeconfig.json
+D:\Project C#\ASM2\ASM2\ASM2\bin\Debug\net8.0-windows\ASM2.dll
+D:\Project C#\ASM2\ASM2\ASM2\bin\Debug\net8.0-windows\ASM2.pdb
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.Login.resources
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.WaterBill.resources
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.csproj.GenerateResource.cache
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.AssemblyInfoInputs.cache
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.AssemblyInfo.cs
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.csproj.CoreCompileInputs.cache
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.dll
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\refint\ASM2.dll
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.pdb
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\ASM2.genruntimeconfig.cache
+D:\Project C#\ASM2\ASM2\ASM2\obj\Debug\net8.0-windows\ref\ASM2.dll
